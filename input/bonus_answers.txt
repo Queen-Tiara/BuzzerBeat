@@ -1,99 +1,80 @@
-(1)
-W. Mark Felt||Deep Throat||William Mark Felt||Felt
-Watergate scandal||Watergate
-Richard Milhous Nixon||Nixon
-
-(2)
+(1
+W. Mark Felt|Deep Throat|William Mark Felt|Felt
+Watergate scandal|Watergate
+Richard Milhous Nixon|Nixon
+(2
 lava
 a'a
 obsidion
-
-(3)
-Alps||the Alps
-Rhine||Rhine river
+(3
+Alps|the Alps
+Rhine|Rhine river
 Matterhorn
-
-(4)
-nine||9||ninth||ninth symphony
-Ludwig von Beethoven||Beethoven
-Fifth||5||Fifth Symphony||Symphony Number 5 in C minor
-
-(5)
-vertebrate||vertebrates||Vertebrata
-jaws||jaw
-lung||lungs
-
-(6)
-Amontillado||The Cask of Amontillado||Cask of Amontillado
-The Tell Tale Heart||Tell Tale Heart
-The Masque of the Red Death||Masque of the Red Death
-
-(7)
-Inca||Incan Empire
+(4
+nine|9|ninth|ninth symphony
+Ludwig von Beethoven|Beethoven
+Fifth|5|Fifth Symphony|Symphony Number 5 in C minor
+(5
+vertebrate|vertebrates|Vertebrata
+jaws|jaw
+lung|lungs
+(6
+Amontillado|The Cask of Amontillado|Cask of Amontillado
+The Tell Tale Heart|Tell Tale Heart
+The Masque of the Red Death|Masque of the Red Death
+(7
+Inca|Incan Empire
 Machu Picchu
-Lake Titicaca||Titicaca
-
-(8)
-Homer||Homeros
-urn||Ode on a Grecian Urn
-Keats||John Keats
-
-(9)
+Lake Titicaca|Titicaca
+(8
+Homer|Homeros
+urn|Ode on a Grecian Urn
+Keats|John Keats
+(9
 Elden Ring
 sword
-Martin||George R.R. Martin||George Raymond Richard Martin:GRRM
-
-(10)
-witches||witchcraft||sorcerer||sorcerers||sorceress||sorceresses||warlocks
-Malleus Maleficarum||Witch Hammer||The Witch Hammer||The Hammer of Witches||Hammer of Witches
-Aquinas||Saint Thomas Aquinas
-
-(11)
-Don Quijote||The Ingenious Gentleman Don Quijote of La Mancha||El Ingenioso hidalgo Don Quixote de la Mancha
-Sancho Panza||Sancho||Panza
-ass||donkey
-
-(12)
-Shiva||Siva
-Hinduism||sanatana dharma||sanatana dharma
+Martin|George R.R. Martin|George Raymond Richard Martin:GRRM
+(10
+witches|witchcraft|sorcerer|sorcerers|sorceress|sorceresses|warlocks
+Malleus Maleficarum|Witch Hammer|The Witch Hammer|The Hammer of Witches|Hammer of Witches
+Aquinas|Saint Thomas Aquinas
+(11
+Don Quijote|The Ingenious Gentleman Don Quijote of La Mancha|El Ingenioso hidalgo Don Quixote de la Mancha
+Sancho Panza|Sancho|Panza
+ass|donkey
+(12
+Shiva|Siva
+Hinduism|sanatana dharma|sanatana dharma
 Trimurti
-
-(13)
+(13
 Boston Tea Party
 Samuel Adams:Adams
-Intolerable||Coercive||Intolerable Acts||Coercive Acts
-
-(14)
-primary||primary colors
-abstract||abstract art||abstraction||geometric abstract art
-fashion||clothes||wearable art||wearable||wear||dresses
-
-(15)
-Freud||Sigmund Freud||Sigismund Schlomo Freud
-Jung||Carl Gustav Jung
-dreams||The Interpretation of Dreams||Die Traumdeutung||Traum
-
-(16)
-acid||acids
-titration||acid-base titration
-hydrochloric||hydrochloric acid||HCl:stomach acid
-
-(17)
-exponentiation||exponents||exponent||raising to a power:squaring:cubing
-parentheses||parenthesis||brackets||braces
-associative||associative property||associate
-
-(18)
-Civil War||American Civil War
-Shiloh||Battle of Shiloh||What I Saw of Shiloh
-Owl Creek Bridge||An Occurrence at Owl Creek Bridge
-
-(19)
-Aboriginal||Aboriginal Australians||Australian Aborigines||Aborigines||Aborigine
-rabbit||rabbit proof fence
-Emu||Great Emu War
-
-(20)
-sound||sound wave||sound waves
-decibel||dB||bel||B
-longitudinal ||longitudinal waves||longitudinal wave||compression waves||compression wave||compression
+Intolerable|Coercive|Intolerable Acts|Coercive Acts
+(14
+primary|primary colors
+abstract|abstract art|abstraction|geometric abstract art
+fashion|clothes|wearable art|wearable|wear|dresses
+(15
+Freud|Sigmund Freud|Sigismund Schlomo Freud
+Jung|Carl Gustav Jung
+dreams|The Interpretation of Dreams|Die Traumdeutung|Traum
+(16
+acid|acids
+titration|acid-base titration
+hydrochloric|hydrochloric acid|HCl:stomach acid
+(17
+exponentiation|exponents|exponent|raising to a power:squaring:cubing
+parentheses|parenthesis|brackets|braces
+associative|associative property|associate
+(18
+Civil War|American Civil War
+Shiloh|Battle of Shiloh|What I Saw of Shiloh
+Owl Creek Bridge|An Occurrence at Owl Creek Bridge
+(19
+Aboriginal|Aboriginal Australians|Australian Aborigines|Aborigines|Aborigine
+rabbit|rabbit proof fence
+Emu|Great Emu War
+(20
+sound|sound wave|sound waves
+decibel|dB|bel|B
+longitudinal |longitudinal waves|longitudinal wave|compression waves|compression wave|compression
